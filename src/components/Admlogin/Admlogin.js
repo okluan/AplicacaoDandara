@@ -1,8 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import pessoasnegras from "../Imagens/pessoasnegras.jpg"
-
 const Admlogin = () => {
     return (
         <>
